@@ -8,7 +8,7 @@ The following image shows the MAE and the 95% confidence interval for the entire
 
 
 
-![Bild1](pictures\Bild1.jpg)
+![Bild1](pictures/Bild1.jpg)
 
 In connection with these tests, I also examined the approach published by [Tantillo](http://cheshirenmr.info/) for calculating the chemical shift from theoretically calculated data [2-7]. I also took a closer look at the underlying experimental data and verified it using data from the [NMRShiftDb](https://nmrshiftdb.nmr.uni-koeln.de/) and the [SDBS database](https://sdbs.db.aist.go.jp/). It was noticeable that the published chemical shifts of a compound can indeed exhibit considerable fluctuations. I found as largest range for ^13^C chemical shift a range of 2.24ppm and 2.41ppm for ^1^H in this cases.
 
