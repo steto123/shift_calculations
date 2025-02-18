@@ -6,7 +6,7 @@ This repository summarizes all my results related to the calculation of chemical
 
 ## Chapter 1
 
-**Whatever you always wanted to know about the ^13^C chemical shift but were too afraid to ask!**
+[**Whatever you always wanted to know about the ^13^C chemical shift but were too afraid to ask!**](Chapter 1/README.md)
 
 
 
