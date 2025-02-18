@@ -28,7 +28,7 @@
 
 **experimental versus calculated chemical shifts (regression method - Tantillo et. al)**
 
-![Bild3](pictures\Bild3.png)
+![Bild3](pictures/Bild3.png)
 
 The Mean Absolute Error (MAE) is about 5.13ppm for this very simple geometry optimisation.
 
@@ -38,7 +38,7 @@ The Mean Absolute Error (MAE) is about 5.13ppm for this very simple geometry opt
 
 **experimental versus calculated chemical shifts ( TMS calibration)**
 
-![Bild4](pictures\Bild4.png)
+![Bild4](pictures/Bild4.png)
 
 In this case the MAE is 5.37ppm.
 
