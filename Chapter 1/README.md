@@ -8,13 +8,13 @@ The following image shows the MAE and the 95% confidence interval for the entire
 
 
 
-![Bild1](pictures\Bild1.jpg)
+![Bild1](pictures/Bild1.jpg)
 
 In connection with these tests, I also examined the approach published by [Tantillo](http://cheshirenmr.info/) for calculating the chemical shift from theoretically calculated data [2-7]. I also took a closer look at the underlying experimental data and verified it using data from the [NMRShiftDb](https://nmrshiftdb.nmr.uni-koeln.de/) and the [SDBS database](https://sdbs.db.aist.go.jp/). It was noticeable that the published chemical shifts of a compound can indeed exhibit considerable fluctuations. I found as largest range for ^13^C chemical shift a range of 2.24ppm and 2.41ppm for ^1^H in this cases.
 
 I wanted to gain a broader overview of the reproducibility of published 13C chemical shift data. For this, I selected three publications that deal with impurities in NMR solvents [8-10]. I extracted the relevant data from these publications, transferred it to an [Excel file](13C-Spannweiten.xlsx), and then examined it more closely. A maximum range was found at 11.94ppm for the carbonyl carbon-atom in acetone. The next picture shows the frequency of this ranges given in ppm:
 
-![Bild2](E:\github\shift_calculations\Chapter 1\pictures\Bild2.png)
+![Bild2](pictures/Bild2.png)
 
 In the most cases this range is lower than 2.4 ppm (We remember the results from the tests from the beginning of this page).
 
@@ -24,7 +24,7 @@ In my opinion a mean averaged error of around 2.5 ppm look like acceptable for ^
 
 # My dream
 
-![nmr dream](E:\github\shift_calculations\Chapter 1\pictures\nmr dream.png)
+![nmr dream](pictures/nmr dream.png)
 
 This flowchart illustrates my vision for a simple, fast, and accurate method to assign the experimental 13C chemical shifts of a given organic compound.
 
@@ -70,7 +70,7 @@ Testcase 3-  DFT geometries from CASCADE was used.
 
 <u>Materials</u>
 
-[presentation](Whatever you always wanted to know about-10.2.25.pptx)
+[presentation](Whatever_you_always-10.2.25.pptx)
 
 [13C ranges](13C-Spannweiten.xlsx)
 
