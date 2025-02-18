@@ -1,4 +1,21 @@
-# shift_calculations
-A set of jupyter Notebooks for ab- initio structure optimisation and chemical shift calculation
+#  ^13^C chemical shift calculations
 
-## This is work in progress 
+This repository summarizes all my results related to the calculation of chemical shifts. The repository includes test results, Jupyter notebooks, and other documents.
+
+
+
+## Chapter 1
+
+**Whatever you always wanted to know about the ^13^C chemical shift but were too afraid to ask!**
+
+
+
+
+
+
+
+
+
+
+
+St. Thomas, Winter 2024/2025
