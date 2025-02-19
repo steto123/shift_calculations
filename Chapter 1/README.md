@@ -60,11 +60,11 @@ And some other libraries for special tasks. Normally i have moved all import com
 
 ## Testcases
 
-Testcase 1- Universal force field was used for geometry calculation
+[Testcase 1](testcase-1.md)- Universal force field was used for geometry calculation
 
-Testcase 2 - Merck forcefield was used for geometry calculation
+[Testcase 2](testcase-2.md) - Merck forcefield was used for geometry calculation
 
-Testcase 3-  DFT geometries from CASCADE was used.
+[Testcase 3](testcase-3.md)-  DFT geometries from CASCADE was used.
 
 
 
