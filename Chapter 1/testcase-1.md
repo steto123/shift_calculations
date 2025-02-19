@@ -44,3 +44,25 @@ In this case the MAE is 5.37ppm.
 
 In both cases, the observed error is outside the proposed acceptable range of 2-2.5 ppm. Nevertheless, it is remarkable that such interesting results were achieved with this simple method of geometry optimization.
 
+
+
+
+
+
+
+[uff- nmr-shift-gpu-from-sdf.ipynb](uff-nmr-shift-gpu-from-sdf.ipynb) is an example workbook using <u>gpu</u> computing and without excel integration. ( i have changed the original notebook for the use with MMFF)
+
+[testmappe1.xlsx](testmappe1.xlsx) is an example for an excel sheet with some results
+
+[UFF-testdaten1.xlsx](UFF-testdaten1.xlsx) contains the data and diagrams used above
+
+
+
+
+
+
+
+
+
+
+
