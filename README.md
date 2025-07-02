@@ -28,4 +28,17 @@ a first example can be found on Binder:
 
 
 
-St. Thomas, Winter 2024/2025
+
+# Tools
+
+In this [chapter](./Tools), I have saved a series of small tools as Jupyter Notebooks that are helpful for my work.
+
+- Molfile Viwer
+- interactive sdf file browser
+- sdf optimizer
+
+
+
+------
+
+St. Thomas, 2025
